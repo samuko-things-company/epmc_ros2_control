@@ -33,7 +33,7 @@ This the **ROS2** Package for the using the **`Easy PID Motor Controller (EPMC) 
 - In the `src/` folder of your `ros workspace`, clone the repo
   (or you can download and add it manually to the `src/` folder)
   ```shell
-  git clone -b humble https://github.com/samuko-things-company/epmc_ros2_control.git
+  git clone https://github.com/samuko-things-company/epmc_ros2_control.git
   ```
 > [!NOTE] 
 > if you download it, extract it and eusre to change the folder name to **`epmc_ros2_control`** before moving it to the `src/` folder
